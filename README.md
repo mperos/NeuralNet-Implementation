@@ -1,4 +1,5 @@
-# MS-Projekt
+# Neural Network Implementation
+
 Projekt iz predmeta matematički softver.
 
 Tema projekta je "Uvod u neuronske mreže". 
